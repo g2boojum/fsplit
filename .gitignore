@@ -1,3 +1,5 @@
+# this executable
+fsplit
 # Object files
 *.o
 *.ko
