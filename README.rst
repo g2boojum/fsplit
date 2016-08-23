@@ -19,4 +19,10 @@ Compiling
 
     gcc -o fsplit fsplit.c
 
+or
+
+.. code-block::
+
+    make && make install
+
 
