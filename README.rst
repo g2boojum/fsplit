@@ -12,4 +12,11 @@ I grabbed it from `/src/usr.bin/fsplit/fsplit.c` in the OpenBSD CVS
 repository, version 1.20, and added the code for OpenBSD's `strlcpy`
 (`/src/lib/libc/string/strlcpy/strlcpy.c`, version 1.13).
 
+Compiling
+---------
+
+.. code-block::
+
+    gcc -o fsplit fsplit.c
+
 
